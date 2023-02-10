@@ -1,0 +1,38 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_3BDD08CE_3508_0112_41C2_9BA2EE32045F.label = 2BlueCentre
+panorama_37E91740_3DF8_0F0E_41C3_9CE95DDC0F84.label = 2PRINTS
+panorama_37E8663B_3DF8_0172_4195_EF0628CE2406.label = 3Boards
+panorama_37E923B0_3DF8_070E_41B4_008787201C51.label = 3centredotted
+panorama_37E9561F_3DF8_0132_41BD_315E7A5B9C9F.label = BCN
+panorama_2616D341_2B95_80DA_41C4_E5A179B93DBF.label = BehindCube
+panorama_3BDD3C49_3508_011E_418D_79B2DEF116BB.label = BooksDoor
+panorama_258603D5_2BAF_87FA_41C4_F7DC13239A85.label = Entrance
+panorama_36DB8E8E_3DF8_0112_41AF_FFFAA85A6FC5.label = ITISDoor
+panorama_3BDDC832_3508_0172_41C3_15D37D948241.label = ITISWhiteDot
+panorama_26A3AAE4_2BEF_81DA_41B3_38FE90EA9672.label = InsideCube
+panorama_3C450DFF_2CB5_83A6_41BE_C354B7C9B6FE.label = LeftL
+panorama_37E8B70A_3DF8_0F12_41C3_048042D943A3.label = LeftsideBoard
+panorama_3BDD9249_3508_011E_41AD_16FF92A6873E.label = LoveSquareDots
+panorama_3BDD566E_3508_0112_416E_BC89FD6818C8.label = LoveandHope
+panorama_25B19D64_2B6C_80DA_41C4_605857F7CFD9.label = MainFirst3
+panorama_2728C777_2BB5_80A6_41C0_0D41E5E39624.label = MainLast2
+panorama_3BDD6A91_3508_010E_41C2_D6F38FB6FE37.label = OutsideOfLeftL
+panorama_3AFA72AA_3508_0112_41C1_F64BA61ABD74.label = Replacetest
+panorama_37E873F0_3DF8_070E_41B4_2BA3036BF950.label = RightBoard
+panorama_3C34FB97_2C94_8066_41BC_96A41385ADDB.label = RightL
+panorama_3A4C322B_3508_0112_41BB_BFDE25131931.label = ShitBlue
+panorama_3BDD5EBB_3508_0172_41A3_2EDCE1814401.label = StartedKissRed
+panorama_3BDD4081_3508_010E_41BE_AFDB8B4A47C4.label = TopOfTheLeftL
+panorama_37E93510_3DF8_030E_4151_FCF986B91890.label = Wimbledon
+panorama_3BDD5496_3508_0132_41C0_C40565B70E21.label = YellowLoveandIfYouWhite
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Main
